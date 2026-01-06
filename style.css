@@ -21,7 +21,7 @@ html, body {
   position: absolute;
   width: 120px;  
   height: auto;
-  animation: bounceX 2.5s linear infinite alternate,
+  animation: bounceX 2s linear infinite alternate,
              bounceY 2.5s linear infinite alternate;
 }
 
